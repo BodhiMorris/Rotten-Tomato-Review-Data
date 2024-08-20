@@ -388,7 +388,6 @@ id,score,date
 10011303-helen,51.5,2013-01-22
 10011304-thirst,66.1,2011-11-18
 1001131-apple,25.0,2004-08-24
-10011335-vengeance,72.5,2010-12-18
 10011379-new_world_order,34.17,2009-05-22
 10011388-blood_the_last_vampire,32.73,2011-11-17
 10011435-shrink,47.17,2011-11-16
@@ -1077,7 +1076,6 @@ id,score,date
 1039642-poison_ivy,57.5,2008-02-11
 1039676-out_on_a_limb,30.0,2003-07-22
 1039796-boomerang,46.25,2008-03-18
-1039810-king_lear,75.0,1987-09-15
 1040198-rapid_fire,35.5,2003-05-20
 1040322-of_mice_and_men,82.5,2003-05-20
 1040325-friends,25.0,2007-12-11
@@ -2223,7 +2221,6 @@ id,score,date
 1220126-heretics,64.17,2009-10-09
 1220289-all_the_best,60.0,2019-04-18
 1220355-shank,40.0,2009-09-11
-1220545-children_of_the_corn,50.0,2020-01-15
 1220551-bounty_hunter,38.11,2012-07-06
 1220683-chevolution,60.0,2009-09-18
 1221008-breaking_point,28.75,2009-12-04
@@ -3146,7 +3143,6 @@ above_the_law,57.5,2005-02-10
 above_the_rim,55.0,2022-04-26
 abraham_lincoln_vampire_hunter,44.44,2012-06-22
 abrahams_valley,90.0,2004-09-18
-absence_2013,28.12,2013-07-11
 absence_of_malice,77.5,2004-10-23
 absolute_power,72.86,2020-06-25
 absolute_wilson,72.5,2007-02-09
@@ -3250,7 +3246,7 @@ adventures_of_ichabod_and_mr_toad,80.0,2006-10-31
 adventures_of_mowgli,80.0,2002-05-11
 adventures_of_pluto_nash,25.62,2013-05-23
 adventures_of_power,41.0,2009-10-23
-adventures_of_priscilla_queen_of_the_desert,71.88,2019-06-07
+adventures_of_priscilla_queen_of_the_desert,61.25,2000-01-01
 adventures_of_rocky_and_bullwinkle,56.15,2010-12-28
 adventures_of_sebastian_cole,70.0,2004-06-25
 adventures_of_the_penguin_king_3d,45.0,2012-10-25
@@ -3625,7 +3621,6 @@ almost_love,43.75,2020-04-18
 almost_married_2015,46.67,2014-03-28
 almost_perfect_2012,40.0,2012-09-21
 almost_perfect_bank_robbery_the,75.0,2011-05-23
-almost_salinas_2003,50.0,2003-05-09
 almost_sunrise,75.0,2017-07-14
 almost_there_2015,70.83,2015-12-16
 aloft,41.96,2015-07-02
@@ -5609,7 +5604,6 @@ blooded,42.86,2011-04-04
 bloodline_2008,44.17,2011-11-17
 bloodline_2019,50.0,2019-09-20
 bloodrayne,19.17,2006-01-15
-bloodshot_2020,48.19,2020-03-16
 bloodsport,25.0,2018-12-28
 bloodsucking_bastards,54.17,2015-09-04
 bloodthirsty,52.5,2021-08-25
@@ -5740,7 +5734,6 @@ bollywoodhollywood,51.25,2004-03-12
 bolshoi_babylon,68.89,2016-02-23
 bolt,67.64,2009-02-12
 bolwieser,63.33,2005-10-04
-bomb_city,80.0,2018-02-08
 bomb_it,73.75,2008-06-06
 bombay_beach_2011,69.75,2012-04-13
 bombay_eunuch,69.17,2002-07-20
@@ -5801,7 +5794,6 @@ border_post,72.5,2007-03-28
 border_south,80.0,2019-06-10
 borg_vs_mcenroe,63.25,2018-08-31
 borgman,63.85,2014-07-17
-boricuas_bond,30.0,2000-01-01
 boris_karloff_the_man_behind_the_monster,80.0,2022-01-26
 boris_without_beatrice,62.5,2017-09-02
 born_a_champion,50.0,2021-01-23
@@ -7337,7 +7329,6 @@ come_play,60.97,2021-09-06
 come_see_the_paradise,75.0,2000-01-01
 come_to_daddy,65.28,2020-02-14
 come_together_2017,62.5,2017-06-22
-come_true,65.71,2021-03-18
 come_undone,68.12,2011-02-10
 come_undone_2000,68.57,2003-03-10
 come_what_may_2016,48.0,2016-09-22
@@ -7826,7 +7817,6 @@ dahmer,46.79,2002-08-09
 dai_nipponjin,58.61,2009-06-25
 daisies,95.0,2020-08-28
 daisy_kenyon,87.5,2008-03-11
-daleks_invasion_earth_2150_ad,80.0,2022-07-08
 dallas,70.0,2006-10-21
 dallas-362,55.83,2005-06-24
 dallas_buyers_club,79.16,2014-02-18
@@ -7875,12 +7865,11 @@ danger_one,30.0,2018-09-13
 dangerous,40.62,2021-11-06
 dangerous_acts_starring_the_unstable_elements_of_belarus_2013,63.33,2014-03-30
 dangerous_beauty,66.5,2000-01-01
-dangerous_ground,46.88,2000-01-01
 dangerous_ishhq,30.0,2019-03-26
 dangerous_liaisons_2012,63.57,2012-11-09
 dangerous_lies_2020,54.5,2020-05-01
 dangerous_lives_of_altar_boys,69.38,2002-06-24
-dangerous_men_2015,15.0,2015-11-12
+dangerous_men_2015,14.17,2015-11-19
 dangerous_minds,57.5,2008-08-19
 dangerous_touch,0.0,2000-01-01
 dangerous_woman,57.5,2000-01-01
@@ -10294,7 +10283,6 @@ fk_the_disabled,60.0,2002-02-07
 flag_day_2021,57.81,2022-01-30
 flag_wars,50.0,2004-06-04
 flags_of_our_fathers,75.69,2007-11-30
-flakes,38.5,2011-11-17
 flamenco_2014,74.38,2014-11-28
 flaming_ears,60.0,2000-01-01
 flamingo_kid,87.5,2006-01-06
@@ -11471,7 +11459,6 @@ grace_unplugged,50.0,2013-10-11
 graceland_2012,77.5,2013-05-10
 gracie,58.43,2011-11-18
 graduate,92.17,2022-06-06
-graduation,32.5,2008-10-18
 graduation_2017,82.4,2017-06-09
 graffiti_bridge,31.79,2018-03-05
 gran_torino,69.58,2011-11-18
@@ -11842,7 +11829,6 @@ happy_cleaners,75.0,2021-02-10
 happy_death_day_2u,55.24,2020-12-10
 happy_end_2017,73.92,2018-03-15
 happy_ending,20.0,2005-05-09
-happy_ending_2014,30.0,2021-03-19
 happy_endings,63.33,2009-05-13
 happy_face,87.5,2021-01-16
 happy_feet,70.62,2011-11-17
@@ -13679,7 +13665,6 @@ ive_always_loved_you,62.5,2006-08-21
 ive_got_issues,60.0,2020-09-25
 ive_heard_the_mermaids_singing,87.5,2000-01-01
 ive_loved_you_so_long,77.4,2011-11-18
-ivul,65.0,2010-07-22
 iwashigumo,50.0,2005-11-07
 iya_monogatari_okuno_hito,100.0,2014-02-18
 izzy_gets_the_fck_across_town,49.38,2018-09-07
@@ -14314,7 +14299,6 @@ keep-your-right-up,70.0,2007-04-17
 keep_an_eye_out,60.83,2021-03-18
 keep_quiet,87.5,2017-02-17
 keep_the_change_2018,73.12,2018-04-05
-keep_the_lights_on,76.0,2012-11-02
 keep_the_river_on_your_right,67.5,2001-05-14
 keeper_the_legend_of_omar_khayyam,59.25,2006-01-20
 keepers_of_the_flame_2018,60.0,2018-12-14
@@ -14502,7 +14486,6 @@ king_of_crime_2018,20.0,2018-11-02
 king_of_devils_island_2011,64.53,2012-06-28
 king_of_hearts_1967,60.0,2018-06-07
 king_of_knives,62.5,2020-12-31
-king_of_kong,77.9,2011-11-18
 king_of_marvin_gardens,70.71,2013-05-24
 king_of_new_york,70.83,2021-08-18
 king_of_the_corner,63.83,2006-02-10
@@ -14527,7 +14510,6 @@ kingsglaive_final_fantasy_xv_2016,43.75,2016-08-19
 kingsman_the_golden_circle,40.0,2018-08-25
 kingsman_the_secret_service,59.13,2015-12-17
 kingsway,62.5,2019-12-12
-kinjite_forbidden_subjects,25.0,2000-01-01
 kink_2014,57.5,2014-08-21
 kinky_boots,62.3,2006-05-27
 kinsey,82.31,2010-12-24
@@ -14565,7 +14547,6 @@ kitchen_stories,73.55,2004-11-29
 kite_2014,28.75,2014-10-13
 kite_runner,66.44,2011-11-17
 kites,57.5,2019-04-16
-kitty_foyle,50.0,2012-01-31
 kivalina_vs_exxon,68.75,2012-06-15
 klaus,67.5,2019-12-03
 kler,60.0,2018-10-11
@@ -14597,7 +14578,6 @@ knock_knock_its_tig_notaro,100.0,2019-08-01
 knock_off,21.67,2000-01-01
 knock_on_any_door,40.0,2006-03-25
 knock_out_2010,20.0,2019-04-08
-knockaround_guys,45.0,2006-12-30
 knocked_for_six,40.0,2014-06-12
 knocked_up,77.58,2007-08-24
 knocking_2021,68.33,2021-11-08
@@ -14986,7 +14966,6 @@ last_summer_2018,60.0,2019-06-07
 last_summer_in_the_hamptons,70.0,2000-01-01
 last_tango_in_paris,76.0,2007-12-07
 last_temptation_of_christ,84.69,2022-05-06
-last_time_i_saw_paris,30.0,2006-03-25
 last_train_home-2009,81.17,2010-11-11
 last_train_to_christmas,60.0,2021-12-15
 last_tycoon,60.0,2005-05-09
@@ -15518,7 +15497,6 @@ little_saints,80.0,2000-01-01
 little_secrets,62.22,2002-08-23
 little_sex,50.0,2019-05-08
 little_sister_2016,66.88,2016-10-15
-little_terrors,87.5,2014-09-12
 little_tornadoes,75.0,2022-05-13
 little_traitor,52.5,2011-08-19
 little_vampire,54.0,2010-12-28
@@ -18829,7 +18807,6 @@ ordet,100.0,2016-04-10
 ordinary_love,75.38,2021-02-20
 ordinary_miracles_the_photo_leagues_new_york_2012,63.75,2012-06-22
 ordinary_people,92.78,2022-07-13
-ordinary_sinner,43.33,2003-03-27
 ordinary_time,60.0,2019-06-20
 ordinary_world_2016,56.25,2016-10-14
 orfeu,50.0,2001-02-14
@@ -20479,7 +20456,6 @@ redcon_1,30.0,2018-09-28
 redeemer_2014,62.5,2015-06-12
 redeeming_love,38.75,2022-09-12
 redemption_2013,46.43,2013-06-28
-redemption_day,25.0,2021-01-08
 redemption_of_a_rogue,67.5,2022-09-29
 redemption_road_2011,20.0,2011-08-26
 redes,75.0,2021-08-25
@@ -21830,7 +21806,6 @@ she_is_love,47.92,2023-02-14
 she_monkeys,68.0,2012-05-17
 she_never_died,75.0,2019-12-06
 she_said,73.65,2022-12-10
-she_who_must_be_obeyed,80.0,2018-10-15
 she_will,67.86,2022-08-08
 sheba_baby,37.5,2004-10-23
 shed-your-tears-and-walk-away,93.33,2010-06-10
@@ -21841,7 +21816,7 @@ sheikh_jackson,62.5,2017-09-19
 sheila_levine_is_dead_and_living_in_new_york,75.0,2021-08-17
 sheitan,44.0,2007-02-23
 shekinah_the_intimate_life_of_hasidic_women,56.25,2014-05-16
-shell,65.71,2013-03-15
+shell,70.0,2013-03-15
 shelter_2014,50.5,2015-11-13
 sheltering_sky,65.0,2003-05-20
 shem,45.36,2006-06-01
@@ -22536,10 +22511,8 @@ songs-from-the-second-floor,82.67,2004-04-23
 songs_for_amy,40.0,2016-08-04
 songs_from_the_north,75.0,2015-09-13
 songs_my_brothers_taught_me,70.56,2021-04-14
-songs_she_wrote_about_people_she_knows,75.0,2015-04-30
 songwriter,87.5,2004-10-23
 sonic_the_hedgehog_2,50.42,2022-04-08
-sonic_the_hedgehog_2020,55.09,2022-04-07
 sonita_2015,80.0,2016-10-23
 sonny,39.17,2003-09-17
 sons-and-lovers1960,55.0,2012-01-31
@@ -24715,7 +24688,6 @@ the_devils_horn,87.5,2016-04-21
 the_devils_miner,72.92,2006-05-19
 the_devils_rock,33.33,2011-07-08
 the_devils_violinist,59.17,2015-01-30
-the_devout,50.0,2017-04-07
 the_diabolical_2015,55.0,2015-10-16
 the_diary_of_a_teenage_girl,82.5,2016-06-12
 the_dictator_2012,48.5,2012-06-01
@@ -26617,7 +26589,6 @@ the_strange_color_of_your_bodys_tears,51.15,2018-08-25
 the_strange_little_cat_2014,61.25,2014-08-21
 the_strange_ones_2018,50.0,2018-01-05
 the_stranger_2015,28.33,2015-06-17
-the_stranger_2022,81.25,2022-10-25
 the_strangers,46.25,2011-11-17
 the_strangers_prey_at_night,45.16,2018-05-05
 the_strays,53.33,2023-03-03
@@ -26996,7 +26967,6 @@ the_wilderness_of_james,53.12,2015-02-20
 the_wildest_dream_conquest_of_everest,64.09,2011-11-24
 the_will_to_fly,80.0,2016-03-11
 the_willoughbys,70.83,2020-05-09
-the_willow_tree,81.0,2008-01-25
 the_wind_2019,72.5,2019-04-12
 the_wind_in_the_willows_1997,90.0,2000-01-01
 the_wind_rises,79.11,2014-05-13
@@ -27826,7 +27796,6 @@ trigger_2010,79.17,2010-10-05
 trigger_effect,67.5,2000-01-01
 trigger_man,80.0,2007-10-17
 trigger_point_2021,12.5,2021-04-16
-triggered_2020,58.33,2020-11-07
 trigun_badlands_rumble,62.5,2011-07-28
 trilogia-i-to-livadi-pou-dakryzei-the-weaping-meadow,69.64,2007-11-15
 trilogy,70.0,2007-10-30
@@ -28434,7 +28403,6 @@ valhalla_rising,65.83,2010-07-29
 valiant,52.27,2005-08-21
 valkyrie,57.78,2009-02-05
 valley_girl,57.5,2004-10-23
-valley_girl_2020,46.88,2020-05-11
 valley_of_love,61.67,2016-10-10
 valley_of_saints,100.0,2015-01-09
 valley_of_shadows,40.0,2017-09-11
@@ -29217,7 +29185,6 @@ where_is_robert_fisher,60.0,2011-10-06
 where_is_where_2009,80.0,2014-06-06
 where_its_at,50.0,2018-07-10
 where_soldiers_come_from,60.0,2011-10-07
-where_the_boys_are_84,12.5,2018-06-19
 where_the_buffalo_roam,50.0,2004-10-23
 where_the_crawdads_sing,49.58,2022-10-03
 where_the_day_takes_you,67.5,2000-01-01
@@ -29329,7 +29296,6 @@ who-says-i-cant-ride-a-rainbow,50.0,2013-07-22
 who_are_you_charlie_brown,71.67,2021-07-02
 who_bombed_judi_bari,56.67,2012-12-07
 who_can_kill_a_child_1976,87.5,2007-08-10
-who_does_she_think_she_is,57.74,2011-11-24
 who_framed_roger_rabbit,92.81,2018-05-29
 who_gets_to_call_it_art,63.75,2006-06-22
 who_invited_them,47.5,2022-10-18
