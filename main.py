@@ -16,6 +16,11 @@ import pandas as pd
 
 ##rotten_reviews_df.to_csv('data/cleaned data.csv', index=False)
 rotten_reviews_df = pd.read_csv('data/cleaned data.csv', on_bad_lines='warn' )
+rotten_reviews_df['originalScore'] = rotten_reviews_df['originalScore'].str.replace('/5', '')
+rotten_reviews_df['originalScore'] = rotten_reviews_df['originalScore'].str.replace('/4', '')
+
+
+
 #rotten_reviews_df = rotten_reviews_df.query(f'not originalScore.str.contains(".")', engine='python')
-#rotten_reviews_df['originalScore'] = rotten_reviews_df['originalScore'].astype(int)
+#rotten_reviews_df['originalScore'] = rotten_reviews_df['originalScore'].astype(float)
 print(rotten_reviews_df)
