@@ -1,6 +1,7 @@
 # Setup of pandas and matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
+x = 0
 
 # Making dataframe, cleaning and analysing
 rotten_reviews_df = pd.read_csv('data/rotten_tomatoes_movie_reviews.csv', on_bad_lines='warn' )
@@ -56,35 +57,54 @@ final_data_df.sort_values(by=['date'], inplace=True)
 
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-test_data_df = final_data_df[final_data_df['date'].str.contains('2023-01-1')]
-test_data_df.plot(
+def showFinalData():
+    print(final_data_df)
+    userOptions()
+
+#---------------------------------------------------------------------------------------------------------------------------------------
+    
+def saveFinalData():
+    final_data_df.to_csv('data/Final Dataset.csv', index=False)
+    userOptions()
+
+
+#---------------------------------------------------------------------------------------------------------------------------------------
+    
+def showChart():
+    print("""The full dataset is too large to visualise so please enter a date to show
+          
+          The date is YYYY-MM-DD
+          You can do things like 2023-07 to show all of july""")
+    try:
+        date = input('Please enter date: ')
+        test_data_df = final_data_df[final_data_df['date'].str.contains(date)]
+        test_data_df.plot(
                     kind='bar',
                     x='date',
                     y='score',
                     color='blue',
                     alpha=0.3,
                     title='Movie Reviews Compared to Time')
-plt.show()
+        plt.show()
+        userOptions()
+    except:
+        print('Your date was invalid, please try again')
+        showChart()
 
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-def showFinalData()
-    print(final_data_df)
-
-#---------------------------------------------------------------------------------------------------------------------------------------
-    
-def saveFinalData()
-    final_data_df.to_csv('data/Final Dataset.csv', index=False)
-
-
-#---------------------------------------------------------------------------------------------------------------------------------------
-    
-def showChart()
-    Print("""The full dataset is too large so please enter a date to show
+def searchMovie():
+    print("""Movie names are formated all lower case and with spaces replaced with underscores, type leave to go back
           
-          The date is YYYY-MM-DD
-          You can do things like 2023-07 to show all of july""")
-    try int(input('Please enter date: '))
+    This shows all movies containing whatever word you put in, e.g spiderman shows spiderman, spiderman_2 and spiderman_3
+    """)
+    
+    movieName = str(input('Please input a movie name: '))
+    if movieName == 'leave':
+        userOptions()
+    else:
+        print(final_data_df[final_data_df['id'].str.contains(movieName)])
+        searchMovie()
 
 #---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,7 +119,8 @@ def userOptions():
     1 - Show the final dataset
     2 - Save the final dataset
     3 - See visualisation
-    4 - Quit Program
+    4 - Search for a movie
+    5 - Quit Program
         """)
     
     try:
@@ -112,9 +133,19 @@ def userOptions():
         elif choice == 3:
             showChart()
         elif choice == 4:
-            quit = True
+            searchMovie()
+        elif choice == 5:
+            print('bye')
         else:
             print('Try again, that number isnt between 1 & 4')
+            userOptions()
 
     except:
-        print('Enter a number, it is not that hard.')
+        print('Please try again')
+        userOptions()
+
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+userOptions()
+
+#final_data_df.loc[final_data_df['id'] == movieName
